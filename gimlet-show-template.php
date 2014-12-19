@@ -7,50 +7,49 @@
         <meta property="og:title" content="*|MC:SUBJECT|*">
         
         <title>*|MC:SUBJECT|*</title>
-		
-		<link rel="stylesheet" href="assets/css/gimlet.css">
 
-	</head>
+        <link rel="stylesheet" href="assets/css/gimlet-show-template.css">
+
+</head>
+
     <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
     	<center>
         	<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable">
             	<tr>
                 	<td align="center" valign="top">
-                        <!-- // Begin Template Preheader \\ -->
-                        <table border="0" cellpadding="10" cellspacing="0" width="100%" id="templatePreheader">
-                            <tr>
-                                <td valign="top" class="preheaderContent">
-                                
-                                	<!-- // Begin Module: Standard Preheader \\ -->
-                                    <table border="0" cellpadding="10" cellspacing="0" width="660">
-                                    	<tr>
-                                            <td valign="top" width="100%">
-                                            	<div mc:edit="std_preheader_links">
-                                                	<!-- *|IFNOT:ARCHIVE_PAGE|* -->Doesn't look right? <a href="*|ARCHIVE|*" target="_blank">View it in your browser</a>.<!-- *|END:IF|* -->
-                                                </div>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                	<!-- // End Module: Standard Preheader \\ -->
-                                
-                                </td>
-                            </tr>
-                        </table>
-                        <!-- // End Template Preheader \\ -->
+
 						<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" class="logoStripe">
 			            	<tr>
 			                	<td align="center" valign="top">
 			                        <table border="0" cellpadding="0" cellspacing="0" width="660" style="">
 			                            <tr>
 			                                <td valign="middle">
-			                                    <a href="http://hearstartup.com"><img src="https://gallery.mailchimp.com/0af2ad782b26fe31066f74a8b/images/80214ccf-7d7c-4cfa-9813-d8679d6e8e27.png" alt="StartUp"></a>  
+			                                    <a href="http://gimletmedia.com/"><img src="https://gallery.mailchimp.com/0af2ad782b26fe31066f74a8b/images/878a1bc1-a101-4e8c-899d-2ad0ff3db6d0.png" alt="Gimlet"></a>  
 			                                </td>
 			                            </tr>
-			                        </table>
-			                    </td>
-			                </tr>
-			            </table>
+		                          </table>
+                                </td>
+                            </tr>
+                        </table>
+
                     	<table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateContainer">
+                        	<tr>
+                            	<td align="center" valign="top">
+                                    <!-- // Begin Template Header \\ -->
+                                	<table border="0" cellpadding="0" cellspacing="0" width="660" id="templateHeader">
+                                        <tr>
+                                            <td class="headerContent">
+                                            
+                                            	<!-- // Begin Module: Standard Header Image \\ -->
+                                            	<img src="https://gallery.mailchimp.com/0af2ad782b26fe31066f74a8b/images/d2ae0878-912a-490c-ab36-7707ae02206a.png" style="width:100%;" id="headerImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowdesigner="" mc:allowtext="">
+                                            	<!-- // End Module: Standard Header Image \\ -->
+                                            
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
                         	<tr>
                             	<td align="center" valign="top">
                                     <!-- // Begin Template Body \\ -->
@@ -63,19 +62,20 @@
                                                     <tr>
                                                         <td valign="top">
                                                             <div mc:edit="std_content00">
-                                                                <span class="h1">Large title will go here</span>
-                                                                <p class="intro">Derit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id estT.</p>
+                                                                <span class="h1">Alex explains how he got the idea to start his own company.</span>
+                                                                
 																<span class="h2">Subheading</span>
                                                                 After you enter your content, highlight the text you want to style and select the options you set in the style editor in the "styles" drop down box. Want to <a href="http://www.mailchimp.com/kb/article/im-using-the-style-designer-and-i-cant-get-my-formatting-to-change" target="_blank">get rid of styling on a bit of text</a>, but having trouble doing it? Just use the "clear styles" button to strip the text of any formatting and reset your style.
 																<br>
                                                                 <br>
 																<span class="h2">Subheading</span>
-                                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <a href="#" target="_blank">incididunt</a> ut.
+                                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <a href="#">incididunt</a> ut.
 																
-																<span class="h3">Subscribe Now</span>
+																<span class="h3">Listen Now</span>
 																<div class="share-buttons">
-				                                                    <a class="button" href="https://itunes.apple.com/us/podcast/startup-podcast/id913805339" target="_blank"><b>Subscribe in iTunes</b></a>
-																	<a class="button" href="http://feeds.hearstartup.com/hearstartup" target="_blank"><b>Subscribe to RSS</b></a>
+																	<a class="button" href="https://soundcloud.com/hearstartup/1-how-not-to-pitch-a-billionaire" target="_blank"><b>Listen in SoundCloud</b></a>
+				                                                    <a class="button" href="https://itunes.apple.com/us/artist/gimlet-media/id920682569?mt=2" target="_blank"><b>Subscribe in iTunes</b></a>
+																	<a class="button" href="http://gimletmedia.com/subscribe/" target="_blank"><b>Subscribe to RSS</b></a>
 																</div>
 																
 																<a class="share-email" href="*|FORWARD|*">Share this email</a>
@@ -104,11 +104,11 @@
                                                     <tr>
                                                         <td valign="top" align="center">
 															<div>
-			                                                	<a href="http://www.twitter.com/podcaststartup"><img src="https://gallery.mailchimp.com/0af2ad782b26fe31066f74a8b/images/3518dfc4-3ea4-4664-8eda-5ee96ef01f6c.png" width="30" height="30"></a>&nbsp;&nbsp;
-				                                                <a href="http://www.soundcloud.com/hearstartup"><img src="https://gallery.mailchimp.com/0af2ad782b26fe31066f74a8b/images/4cb27d25-187c-4c19-a2dc-e065da2ace82.png" width="30" height="30"></a>&nbsp;&nbsp;
-				                                                <a href="http://www.facebook.com/hearstartup"><img src="https://gallery.mailchimp.com/0af2ad782b26fe31066f74a8b/images/6880a0b8-07fe-48df-ae47-c6624386d2b4.png" width="30" height="30"></a>
+			                                                	<a href="https://twitter.com/gimletmedia"><img src="https://gallery.mailchimp.com/0af2ad782b26fe31066f74a8b/images/3518dfc4-3ea4-4664-8eda-5ee96ef01f6c.png" width="30" height="30"></a>&nbsp;&nbsp;
+				                                                <a href="https://soundcloud.com/gimletmedia"><img src="https://gallery.mailchimp.com/0af2ad782b26fe31066f74a8b/images/4cb27d25-187c-4c19-a2dc-e065da2ace82.png" width="30" height="30"></a>&nbsp;&nbsp;
+				                                                <a href="https://www.facebook.com/gimletmedia"><img src="https://gallery.mailchimp.com/0af2ad782b26fe31066f74a8b/images/6880a0b8-07fe-48df-ae47-c6624386d2b4.png" width="30" height="30"></a>
 																<p>
-				                        						You are receiving this email because you provided us with your email address through the StartUp Sign Up page, by signing up for our newsletter, or by other means... If you no longer wish to receive emails from us, please <a href="*|UNSUB|*">unsubscribe</a> and you will be removed from our email list.
+				                        						You are receiving this email because you provided us with your email address through the Gimlet Media Sign Up page, by signing up for our newsletter, or by other means... If you no longer wish to receive emails from us, please <a href="*|UNSUB|*">unsubscribe</a> and you will be removed from our email list.
 																</p>
 																<p class="address">
 				                                                    *|HTML:LIST_ADDRESS_HTML|*
