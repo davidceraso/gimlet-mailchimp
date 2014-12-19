@@ -1,114 +1,120 @@
-		#outlook a{
-			padding:0;
-		}
-		body{
-			width:100% !important;
-		}
-		body{
-			-webkit-text-size-adjust:none;
-		}
-		body{
-			margin:0;
-			padding:0;
-		}
-		img{
-			border:none;
-			font-size:14px;
-			font-weight:bold;
-			height:auto;
-			line-height:100%;
-			outline:none;
-			text-decoration:none;
-			text-transform:capitalize;
-		}
-		#backgroundTable{
-			height:100% !important;
-			margin:0;
-			padding:0;
-			width:100% !important;
-		}
-		a{
-			color:#0047ff;
-		}
-		.preheaderContent{
-			text-align:center;
-		}
-		.preheaderContent table{
-			margin:0 auto;
-		}
-		.preheaderContent table td{
-			padding:8px 0 8px 0;
-		}
-		.logoStripe{
-			margin:0;
-			padding:0;
-			width:100% !important;
-			height:auto;
-			background-color:#0047ff;
-		}
-		.logoStripe table{
-			background-color:#0047ff;
-			padding:0px 0;
-			height:auto;
-		}
-		.logoStripe table td{
-			padding:7px 0 4px 0;
-		}
-		.logoStripe table td a{
-			display:block;
-			height:20px;
-		}
-		#templateContainer{
-			margin:40px 0;
-		}
-		.bodyContent{
-			background-color:#ffffff !important;
-		}
-		.bodyContent div .intro{
-			border-bottom:1px dashed #393c48;
-			padding:0 0 40px 0;
-			font-weight:bold;
-			margin:0 0 40px 0;
-		}
-		.bodyContent div .share-buttons{
-			text-align:left;
-			margin:0 0 0 0;
-		}
-		.bodyContent div a.button,.bodyContent div a.button:link,.bodyContent div a.button:visited{
-			color:#ffffff;
-			background-color:#0047ff;
-			text-align:center;
-			width:155px;
-			padding:22px 15px;
-			border-radius:5px;
-			font-size:16px;
-			display:inline-block;
-			text-decoration:none;
-			margin:0 12px 0 0;
-			line-height:20px;
-		}
-		.bodyContent div a.share-email{
-			display:block;
-			margin:42px 0 16px 0;
-			text-align:left;
-			border-top:1px dashed #393c48;
-			padding:52px 0 0 0;
-		}
-		.divider{
-			display:block;
-			line-height:0;
-			margin:42px 0 30px 0;
-			text-align:left;
-			border-top:1px dashed #393c48;
-			padding:16px 0 0 0;
-			text-transform:uppercase;
-		}
-		.footerContent div p.address{
-			font-size:12px;
-			line-height:20px;
-			color:#828282;
-			margin:40px 0 0 0;
-		}
+#0047FF
+
+#outlook a{
+	padding:0;
+}
+body{
+	width:100% !important;
+}
+body{
+	-webkit-text-size-adjust:none;
+}
+body{
+	margin:0;
+	padding:0;
+}
+img{
+	border:none;
+	font-size:14px;
+	font-weight:bold;
+	height:auto;
+	line-height:100%;
+	outline:none;
+	text-decoration:none;
+	text-transform:capitalize;
+}
+#backgroundTable{
+	height:100% !important;
+	margin:0;
+	padding:0;
+	width:100% !important;
+}
+a{
+	color:#0047ff;
+}
+.preheaderContent{
+	text-align:center;
+}
+.preheaderContent table{
+	margin:0 auto;
+}
+.preheaderContent table td{
+	padding:8px 0 8px 0;
+}
+.logoStripe{
+	margin:0;
+	padding:0;
+	width:100% !important;
+	height:auto;
+	background-color:#0047ff;
+}
+.logoStripe table{
+	background-color:#0047ff;
+	padding:0px 0;
+	height:auto;
+}
+.logoStripe table td{
+	padding:7px 0 7px 0;
+}
+.logoStripe table td a{
+	display:block;
+	height:20px;
+}
+.logoStripe table td img{
+	display:block;
+	height:20px;
+}
+#templateContainer{
+	margin:40px 0;
+}
+.bodyContent{
+	background-color:#ffffff !important;
+}
+.bodyContent div .intro{
+	border-bottom:1px dashed #393c48;
+	padding:0 0 40px 0;
+	font-weight:bold;
+	margin:0 0 40px 0;
+}
+.bodyContent div .share-buttons{
+	text-align:left;
+	margin:0 0 0 0;
+}
+.bodyContent div a.button,.bodyContent div a.button:link,.bodyContent div a.button:visited{
+	color:#ffffff;
+	background-color:#0047ff;
+	text-align:center;
+	width:155px;
+	padding:22px 15px;
+	border-radius:5px;
+	font-size:16px;
+	display:inline-block;
+	text-decoration:none;
+	margin:0 12px 0 0;
+	line-height:20px;
+}
+.bodyContent div a.share-email{
+	display:block;
+	margin:42px 0 16px 0;
+	text-align:left;
+	border-top:1px dashed #393c48;
+	padding:52px 0 0 0;
+}
+.divider{
+	display:block;
+	line-height:0;
+	margin:42px 0 30px 0;
+	text-align:left;
+	border-top:1px dashed #393c48;
+	padding:16px 0 0 0;
+	text-transform:uppercase;
+}
+.footerContent div p.address{
+	font-size:12px;
+	line-height:20px;
+	color:#828282;
+	margin:40px 0 0 0;
+}
 	/*
 	@tab Page
 	@section background color

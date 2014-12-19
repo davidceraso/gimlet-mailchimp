@@ -1,0 +1,152 @@
+body {
+	font: 14px/20px 'Helvetica', Arial, sans-serif;
+	margin: 0;
+	padding: 0 0 0 0;
+	text-align: center;
+	background-color: #EEE;
+}
+.bodyContent {
+	line-height: 150%;
+	font-family: Helvetica;
+	font-size: 14px;
+	color: #333;
+	padding: 20px;
+	background-color: #FFF;
+}
+.wrapper {
+	width: 600px;
+	margin: 0 auto 10px auto;
+	text-align: left;
+}
+.poweredWrapper {
+	padding: 20px 0;
+	width: 560px;
+	margin: 0 auto;
+}
+input, textarea, select {
+	display: block;
+	margin: 0;
+	padding: 10px;
+	background: #FFF;
+	width: 100%;
+	border: 2px solid #D0D0D0 !important;
+	border-radius: 3px;
+	-webkit-appearance: none;
+}
+.mergeRow {
+	padding: 0 0 6px 0 !important;
+	clear: both;
+}
+label {
+	line-height: 150%;
+	font-family: Helvetica;
+	font-size: 16px;
+	color: #5D5D5D;
+	display: block;
+	width: auto;
+	margin-top: 8px;
+	font-weight: bold;
+}
+.asterisk {
+	color: #C60;
+	font-size: 20px;
+}
+.field-group {
+	position: relative;
+	margin: 3px 0 12px 0;
+	overflow: hidden;
+	background: rgba(0, 0, 0, 0) !important;
+}
+ul.interestgroup_field, ul.interestgroup_field li, ul.unsub-options, ul.unsub-options li, .interestgroup_row {
+	display: block;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+ul.interestgroup_field, ul.interestgroup_field li, ul.unsub-options, ul.unsub-options li, .interestgroup_row {
+	display: block;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+label.checkbox, label.radio {
+	font-weight: normal;
+	position: relative;
+	line-height: 24px;
+}
+.checkbox, .radio {
+	margin: 9px 0 0 0;
+	padding: 0;
+}
+.checkbox input, .radio input {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	opacity: 0;
+}
+.checkbox input, .radio input {
+	width: auto !important;
+	display: inline-block;
+	margin-right: 5px;
+	padding: 0;
+	border: none;
+	background-color: rgba(0, 0, 0, 0);
+}
+.checkbox input + span, .radio input + span {
+	display: block;
+	border-radius: 3px;
+	padding: 6px 6px 6px 38px;
+}
+.checkbox input + span:before, .radio input + span:before {
+	display: block;
+	position: absolute;
+	top: 6px;
+	left: 6px;
+	width: 24px;
+	height: 24px;
+	background: url(images/signup-sprite.png) no-repeat;
+	content: " ";
+	vertical-align: top;
+}
+.button, .small-buton {
+	display: inline-block;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 42px;
+	font-family: 'Helvetica', Arial, sans-serif;
+	width: auto;
+	white-space: nowrap;
+	height: 42px;
+	margin: 12px 5px 12px 0;
+	padding: 0 22px;
+	text-decoration: none;
+	text-align: center;
+	cursor: pointer;
+	border: 0;
+	border-radius: 3px;
+	vertical-align: top;
+	background-color: #5D5D5D !important;
+	color: #FFF !important;
+	border: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
